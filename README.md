@@ -53,7 +53,7 @@
   - QDA accuracy: 100.0%  
   - LDA accuracy: 100.0%
  
-![PCA with 95% variance](images/PCA95.png)
+![PCA with 95% variance](plots/PCA95.png)
 
 ### After FDA:
 - **Test Data**:  
@@ -64,7 +64,7 @@
   - QDA accuracy: 100.0%  
   - LDA accuracy: 100.0%
  
-![FDA Projection](images/FDA.png)
+![FDA Projection](plots/FDA.png)
 
 ---
 
@@ -77,7 +77,7 @@
   - QDA accuracy: 99.67%  
   - LDA accuracy: 99.67%
 
- ![PCA with 90% variance](images/PCA90.png)
+ ![PCA with 90% variance](plots/PCA90.png)
 
 ---
 
@@ -90,4 +90,4 @@
   - QDA accuracy: 94.67%  
   - LDA accuracy: 94.67%
  
-![PCA with p=2](images/PCA2.png)
+![PCA with p=2](plots/PCA2.png)
